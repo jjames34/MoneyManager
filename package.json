@@ -1,0 +1,29 @@
+{
+    "author": "jjames34@illinois.edu",
+    "dependencies": {},
+    "keywords": [],
+    "name": "moneywise",
+    "pebble": {
+        "capabilities": [
+            "location"
+        ],
+        "displayName": "MoneyWise",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "2611caef-4b2d-479a-a54d-e15a4deace13",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
